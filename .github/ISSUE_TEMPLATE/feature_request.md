@@ -27,7 +27,7 @@ Wenn du einen Vorschlag einreichen möchtest, lies das Folgende
 ### Vorschlag
 
 **Checkliste**
-- - [ ] Ich habe die Readme Gelsen und Akzeptiere sie (https://github.com/CubeGaming-Development/Meta)
+- [ ] Ich habe die Readme Gelsen und Akzeptiere sie (https://github.com/CubeGaming-Development/Meta)
 - [ ] Dies ist kein Bug Report, Supportfrage, oder Schwachstelle
 - [ ] Ich habe den Issue Tracker durchsucht um sicherzugehen das dies keine Doppelte Issue ist
 - [ ] Dieser Request enthält keine Sensiblen Daten
