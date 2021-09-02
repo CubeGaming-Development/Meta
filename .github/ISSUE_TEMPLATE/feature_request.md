@@ -41,6 +41,16 @@ Wenn in-game: Java oder Bedrock -->
 - [ ] Java
 - [ ] Bedrock
 
+**Für welchen Spielmodus/Server ist dieser Vorschlag**
+<!-- Für welchen Modi/Server ist dieser Vorschlag? Proxy, MineZ, CubeRPG, Skyblock, Skywars, Factions oder Hide and Seek? -->
+- [ ] Proxy
+- [ ] MineZ
+- [ ] CubeRPG
+- [ ] Skyblock
+- [ ] Factions
+- [ ] Hide and Seek
+- [ ] Skywars
+
 **Beschreibe deinen Vorschlag**
 <!-- Welches Feature möchtest du Vorschlagen
      Beispiel:
@@ -57,6 +67,11 @@ Wenn in-game: Java oder Bedrock -->
 -->
 
 
+
+**Referenzen**
+<!-- 
+Füge wenn Möglich Referenzen wie Bilder, oder Videos/GIF's hinzu 
+Wird nicht Zwingend Benötigt, ist aber sehr Hilfreich -->
 
 ---
 **Nutze 👍 und 👎 reaktionen um zu zeigen das du den Vorschlag für Nützlich oder Unnötig hälst, du darfst dich auch in den Kommentaren Äußern und dazu Beitragen.**
