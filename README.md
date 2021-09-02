@@ -46,5 +46,5 @@ Wir erwarten von den Mitgliedern der Community, die hier an Gesprächen teilnehm
 ## Ein Problem Melden
 > ⚠️ **Wichtig!** Wenn du einen Potenziellen Sicherheits-Exploit oder eine Sicherheitslücke entdeckst, melde diese bitte **NICHT HIER!!!** Schau hier [Security Policy](https://github.com/CubeGaming-Development/Meta/security/policy) für mehr Informatione nach.
 
-- Sobald du bereit bist, deine Issue/Bug-Report oder ein Feature-Request einureichen gehe [hier](https://github.com/CubeGaming-Development/Meta/issues/new/choose) hin um anzufangen.
+- Sobald du bereit bist, deine Issue/Bug-Report oder ein Feature-Request einzureichen gehe [hier](https://github.com/CubeGaming-Development/Meta/issues/new/choose) hin um anzufangen.
 - Du kannst auch in anderen Beiträgen kommentieren und an anderen Gesprächen teilnehmen. Denke daran wenn du einen Beitrag Unterstützen möchtest, oder dagegen bist Nutze 👍 und 👎 reaktionen. Du kannst auch [Sortiere Beiträge mit 👍](https://github.com/CubeGaming-Development/Meta/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc) oder (auch [mit 👎 wenn du möchtest](https://github.com/CubeGaming-Development/Meta/issues?q=is%3Aissue+sort%3Areactions--1-desc)) nutzen um Beiträge zu Sortieren.
