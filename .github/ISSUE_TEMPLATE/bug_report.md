@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug Melden
 about: Melde einen Bug auf CubeGaming
 title: ''
 labels: bug
@@ -14,13 +14,13 @@ Fülle das Template aus. Schreibe nicht zwischen den Pfeilen da der Text in dies
 Wenn du einen Bug Melden möchtest, lies das Folgende:
 
 1.  Fülle das Template aus
-     Es macht es für alle Einfacher wenn die Reports dem Standart Template entsprechen. Auch stellt es sicher das wir die Benötigen Informationen haben. Um eine Box Anzukreuzen, Setze ein "x" zwischen [ ] Beispiel: [x]
+     Es macht es für alle Einfacher wenn die Reports dem Standart Template entsprechen. Auch stellt es sicher das wir die Benötigen Informationen haben. Um eine Box Anzukreuzen,        Setze ein "x" zwischen [ ] Beispiel: [x]
 
 2.  Halte deinen Report Simpel
      Stelle sicher das es einfach ist zu verstehen was du Meldest, und wie es Reproduzierbar ist
 
 3. Wähle einen ordentlichen Titel
-    Der Report titel sollte kurz sein und eine Klare Andeutung für den Bug sein
+    Der Report-Titel sollte kurz sein und eine Klare Andeutung für den Bug sein
 
      -->
 
@@ -28,34 +28,49 @@ Wenn du einen Bug Melden möchtest, lies das Folgende:
 ### Bug Report
 
 **Checkliste**
-- [ ] Ich habe die Readme Gelsen und Akzeptiere sie (https://github.com/CubeGaming-Development/Meta)
+- [ ] Ich habe die ReadME gelesen und Akzeptiere sie (https://github.com/CubeGaming-Development/Meta)
 - [ ] Ich melde KEINE Sicherheitslücke
-- [ ] Ich habe den Issue Tracker durchsucht um sicherzugehen das dies keine Doppelte Issue ist
-- [ ] Dieser Report enthält keine Sensiblen Daten
+- [ ] Ich habe den Issue Tracker durchsucht um sicherzugehen das dies kein Doppelter Bug-Report ist
+- [ ] Dieser Bug-Report enthält keine Sensiblen Daten
 
-**Platform**
-<!-- Auf Welcher Platform tritt dieser Fehler auf? Discord, Website oder In-game?
-Wenn in-game: Java, Bedrock oder beide? -->
+**Für welche Platform ist dein Vorschlag**
+<!-- Für welche Platform ist dieser Vorschlag? Discord, Website oder In-game?
+Wenn in-game: Java oder Bedrock -->
+- [ ] Discord
+- [ ] Website
+- [ ] Java
+- [ ] Bedrock
 
 **Beschreibe den Bug**
 <!-- Eine Saubere Erklärung was der Bug macht -->
 
+
+
 **Um den Bug zu Reproduzieren**
 Schritte um den Bug zu Reproduzieren:
-1. Gehe nach '...'
-2. Klicke auf '....'
-3. Scrolle runter zu '....'
-4. Bug
+<!-- Beispiel:
+          1. Gehe auf den MineZ Server
+          2. Öffne einen Rucksack und Klicke ein Item an
+          3. Schließe das Spiel mit ALT + F4 ohne das Item wieder in einen Slot zu packen
+          4. Starte das Spiel Erneut und verbinde auf den Server
+          5. Das Item ist nun Verschwunden
+-->
 
 **Vorgestelltes Geschehen**
-<!-- Eine Klare beschreibung was du dir Vorgestellt hast was passieren sollte -->
+<!-- Eine Klare beschreibung was du dir Vorgestellt hast was passieren sollte
+     Beispiel:
+          Normalerweise sollte das Item wieder im Rucksack auftauchen
+-->
+
+
 
 **Geräteinformation**
-<!-- Gib die Informationen -->
+<!-- Gib die Informationen Ehrlich und Ordentlich an -->
 - Minecraft client (und version): 
-- Web browser (und version): 
+- Web browser (und version **(Wird nur bei Bug-Reports benötigt die vom Forum handeln.)**:
 - OS (und version): 
-- Server name (Diesen Findest du in der Tab liste): 
+- Servername (Diesen Findest du in der Tab liste): 
+
 
 **Screenshots**
 <!-- 
@@ -63,7 +78,7 @@ Füge wenn Möglich, screenshots, kurze Videos/GIFs hinzu um das Problem zu zeig
 Wird nicht Zwingend Benötigt, ist aber sehr Hilfreich -->
 
 **Zusätzlicher Kontext**
-<!-- Füge hier Zusätzliche Dinge ein die Nützlich sein könnten -->
+<!-- Füge hier Zusätzliche Dinge ein die Nützlich für uns sein könnten -->
 
 ---
 **Versuche den Bug zu Reproduzieren und lass es uns in den Kommentaren wissen. Stelle sicher das du deine Geräteinformationen mit angibst!**
