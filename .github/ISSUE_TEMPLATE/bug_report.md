@@ -11,13 +11,12 @@ assignees: ''
 
 Fülle das Template aus. Schreibe nicht zwischen den Pfeilen da der Text in diesen beim Senden Nichtmehr Angezeigt wird.
 
-Wenn du einen Bug Melden möchtest, lies das Folgende::
+Wenn du einen Bug Melden möchtest, lies das Folgende:
 
 1.  Fülle das Tempalte aus
      Es macht es für alle Einfacher wenn die Reports dem Standart Template entsprechen. Auch stellt es sicher das wir die Benötigen Informationen haben. Um eine Box Anzukreuzen, Setze ein "x" zwischen [ ] Beispiel: [x]
 
 2.  Halte deinen Report Simpel
-     Make sure it's easy to understand what you're reporting and how it can be reproduced
      Stelle sicher das es einfach ist zu verstehen was du Meldest, und wie es Reproduzierbar ist
 
 3. Wähle einen ordentlichen Titel
