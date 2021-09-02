@@ -2,7 +2,7 @@
 name: Vorschlag
 about: Schlage eine Idee für CubeGaming vor
 title: ''
-labels: feature request
+labels: vorschlag
 assignees: ''
 
 ---
