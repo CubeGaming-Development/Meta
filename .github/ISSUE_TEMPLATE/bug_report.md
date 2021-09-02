@@ -13,7 +13,7 @@ Fülle das Template aus. Schreibe nicht zwischen den Pfeilen da der Text in dies
 
 Wenn du einen Bug Melden möchtest, lies das Folgende:
 
-1.  Fülle das Tempalte aus
+1.  Fülle das Template aus
      Es macht es für alle Einfacher wenn die Reports dem Standart Template entsprechen. Auch stellt es sicher das wir die Benötigen Informationen haben. Um eine Box Anzukreuzen, Setze ein "x" zwischen [ ] Beispiel: [x]
 
 2.  Halte deinen Report Simpel
