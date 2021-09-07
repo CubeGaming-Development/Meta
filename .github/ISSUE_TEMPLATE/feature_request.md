@@ -1,8 +1,8 @@
 ---
 name: Vorschlag
-about: Schlage eine Idee für CubeGaming vor
+about: Schlage eine Idee/Feature für CubeGaming vor
 title: ''
-labels: vorschlag
+labels: Vorschlag
 assignees: ''
 
 ---
