@@ -3,7 +3,7 @@ Willkommen in der [CubeGaming](https://cubegaming.eu) Meta GitHub repo! Das ist 
 
 Wir möchten die Kommunikation mit unseren Nutzern verbessern, indem wir offizielle Kanäle bereitstellen, um Probleme zu melden und uns deine Ideen mitzuteilen. Dieser Bereich wird als (experimenteller) Ansatz verwendet, um zu sehen, ob ihr damit zurechtkommt, Eure Probleme mit diesem Tool zu melden und zu verfolgen. Dieses Dokument (als README bezeichnet) dient als Ausgangspunkt für deine erste Ausgabe.
 
-## Contents
+## Inhalt
 - [Allgemeine Einführung](https://github.com/CubeGaming-Development/Meta#allgemeine-einführung)
 - [Community Erwartungen](https://github.com/CubeGaming-Development/Meta#community-erwartungen)
 - [Einreichen einer Issue](https://github.com/CubeGaming-Development/Meta#ein-problem-melden)
