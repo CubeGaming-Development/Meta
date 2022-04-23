@@ -23,8 +23,9 @@ body:
       label: Affected Service?
       multiple: true
       options:
-        - DayZ
-        - Garrys Mod
+        - DayZ DeerIsle
+        - Garrys Mod HL2RP
+        - Garrys Mod DarkRP
         - Minecraft Java
         - Minecraft Bedrock
         - Website
