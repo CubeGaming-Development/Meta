@@ -59,7 +59,7 @@ body:
     attributes:
       label: Client Information?
       description: |
-        Provide the following applicable information
+        Provide the following applicable information depending on the platform you selected
         - Minecraft client (and version):
         - DayZ client (and version):
         - Garrys Mod client (and version):
