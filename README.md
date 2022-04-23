@@ -1,50 +1,52 @@
 # CubeGaming Meta
-Willkommen in der [CubeGaming](https://cubegaming.eu) Meta GitHub repo! Das ist *der* ort um **Bugreports** und **Features und Verbesserungen vorzuschlagen**. Du kannst auch an Gesprächen über Feature-Requests und Fehlerberichte teilnehmen.
+Welcome to the [CubeGaming](https://cubegaming.eu) Meta GitHub repo! This is *the* place to **report bugs** and **suggest features and improvements** You can also participate in conversations about feature requests and bug reports. 
 
-Wir möchten die Kommunikation mit unseren Nutzern verbessern, indem wir offizielle Kanäle bereitstellen, um Probleme zu melden und uns deine Ideen mitzuteilen. Dieser Bereich wird als (experimenteller) Ansatz verwendet, um zu sehen, ob ihr damit zurechtkommt, Eure Probleme mit diesem Tool zu melden und zu verfolgen. Dieses Dokument (als README bezeichnet) dient als Ausgangspunkt für deine erste Ausgabe.
+We would like to improve communication with our users by providing official channels to report problems and tell us your ideas. This space will be taken as an (experimental) approach to see if you feel comfortable reporting and tracking your issues by means of this tool. This document (called the README) will serve as a starting point for making your first issue.
 
-## Inhalt
-- [Allgemeine Einführung](https://github.com/CubeGaming-Development/Meta#allgemeine-einführung)
-- [Community Erwartungen](https://github.com/CubeGaming-Development/Meta#community-erwartungen)
-- [Einreichen einer Issue](https://github.com/CubeGaming-Development/Meta#ein-problem-melden)
+## Contents
+- [General Introduction](https://github.com/CubeGaming-Development/Meta#general-introduction)
+- [Community Expectations](https://github.com/CubeGaming-Development/Meta#community-expectations)
+- [Submitting An Issue](https://github.com/CubeGaming-Development/Meta#submitting-an-issue)
 
-## Allgemeine Einführung
-Das ist die CubeGaming Meta GitHub-Repository. Hier kannst du uns deine Funktionen und Ideen mitteilen, die du zu CubeGaming hinzufügen möchtest, und du kannst auch Fehler melden, die behoben werden müssen. Wir verwenden die Issue Tracker-Funktion von GitHub, um Fehlerberichte und Funktionsanfragen (Vorschläge) zu verfolgen.
+## General Introduction
+Das ist die CubeGaming Meta GitHub repository. Here, you can tell us about your features and ideas that you want to be added to CubeGaming and you can also report bugs that need to be squashed. We use GitHub's Issue Tracker feature to track bug reports and feature requests (suggestions).
 
-Wir verstehen, dass du möglicherweiße nicht viel Erfahrung mit GitHub hast, und das ist inordnung! Wir werden unser bestes tun, um dir bei der Navigation durch diesen Tracker zu helfen. Wir können mit der Einführung einiger Schlüsselbegriffe beginnen, die du häufig hören wirst.
-- **Issue**: Ein Feature-Request oder **bug** report.
-- **Repository** oder **repo**: Bezieht sich auf die Gruppe der CubeGaming Metaseiten. Beinhaltet den **issue** tracker und Dokumente (wie dieses).
-- **Bug**: Jedes unbeabsichtigte Verhalten eines Systems irgendwo auf CubeGaming. Im Grunde ist es ein Fehler, wenn etwas nicht so funktioniert, wie es sollte.
-- **Valid**: Wenn eine **issue** richtig ist. Reproduzierbar? Richtige Information? Wirklich eine issue?
-- **Reproduzierbar**: Wenn der **bug** report von anderen genutzt werden kann. Ein Bugreport muss **Reproduzierbar** sein um **valid** zu sein.
+We understand you might not have much experience using GitHub, and that's fine! We'll do our best to help you navigate this tracker. We can start by introducing some key terms you'll be hearing a lot:
+- **Issue**: A feature request or **bug** report.
+- **Repository** or **repo**: Refers to the group of CubeGaming Meta pages. Includes the **issue** tracker and documents (like this one).
+- **Bug**: Any piece of unintended behaviour anywhere on CubeGaming. Basically, if something isn't working how it should, it's a bug.
+- **Valid**: If an **issue** is correct. Reproducible? Correct information? Actually an issue?
+- **Reproducible**: If a **bug** report can be copied or induced by other people. A bug report must be **reproducible** to be **valid**.
 
-Jetzt da du ein Experte für den technischen Jargon bist, mit dem wir Probleme verwalten, bist du deiner Ersten Meldung einen schritt näher gekommen.
+Now that you're an expert on the technical jargon we use to manage issues, you're one step closer to making your first issue!
 
-## Community Erwartungen
-Wir erwarten von den Mitgliedern der Community, die hier an Gesprächen teilnehmen, sich höglich zu verhalten und dieses Forum produktiv und unterhaltsam zu gestalten. Benutzer, die gegen Regeln verstoßen, werden jeh nach den Umständen dauerhaft von der Teilnahme Ausgeschlossen.
+## Community Expectations
+We expect members of the community participating in conversations here to act in a civil manner and to keep this forum productive and enjoyable. Users who break rules will have their messages deleted and they may be permanently banned from participating depending on the circumstances.
 
-### Machen
-- Nutze die Issue templates die bereitgestellt werden
-- Hilf dem Team wenn du danach gefragt wirst
-- Beteilige dich an laufenden Diskussionen
-- Gib konstruktives Feedback zu Ideen
-- Durchsuche den Ossue Tracker, um sicherzustellen, das deine Issue nicht bereits eingereicht wurde, bevor du eine neue öffnest (Nutze die Suchleiste auf der  [Issues seite](https://github.com/CubeGaming-Development/Meta/issues))
-- Überprüfe die Richtigkeit deiner Issue
-- Sei in deinen Nachrichten klar, prägnant und spezifisch
-- Halte Koversationen On-Toppic
-- Sei respektvoll gegenüber allen
-- Nimm Anspruch auf [GitHub Flavoured Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) -- Es ist großartig und macht deine Einreichung noch besser! 😄
-- Erstelle für jede Issue, jeden Feature-Request und Bugreport einen Seperaten Beitrag, Melde nicht mehrere probleme in einem Beitrag.
+### Do
+- Use the issue templates provided
+- Help out staff if asked
+- Contribute to on-going discussions
+- Give constructive feedback to ideas
+- Search the issue tracker to ensure that your issue has not already been submitted before making a new post (use the search bar on the [Issues page](https://github.com/CubeGaming-Development/Meta/issues))
+- Verify the validity of your issue
+- Be clear, concise and specific in your messages
+- Keep conversations on-topic
+- Be respectful toward everyone
+- Take advantage of [GitHub Flavoured Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) -- it's awesome, and it makes your submission that much better! 😄
+- Create a separate issue for each feature request/bug report (don't talk about multiple things in one issue)
 
-### Nicht machen
-- Issues Bumpen (Ein Kommentar Schreiben damit die Issue wieder ganz oben erscheint) -- Wir lesen uns jede einzelnen Beitrag durch!
-- Argumentiere unproduktiv in den Kommentaren
-- Vom Thema Abweichen
-- Logische Fehler in Argumenten nutzen
-- Eine Issue erstellen das deiner meinung nach zu Unrecht geschlossen wurde -- Wenn du der Meinung bist das ein Beitrag zu unrecht geschlossen wurde, Hinterlasse ein Kommentar im Beitrag.
-- Kommentare wie 👍, +1, oder "Dafür" Hinterlassen -- Nutze [Reaktionen](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)!
-## Ein Problem Melden
-> ⚠️ **Wichtig!** Wenn du einen Potenziellen Sicherheits-Exploit oder eine Sicherheitslücke entdeckst, melde diese bitte **NICHT HIER!!!** Schau hier [Security Policy](https://github.com/CubeGaming-Development/Meta/security/policy) für mehr Informatione nach.
+### Don't
+- Bump issues for the sole purpose of receiving a response (all issues are acknowledged)
+- Argue unproductively in the comments
+- Stray off-topic
+- Try to get support for CubeGaming services here -- [read this](https://github.com/CubeGaming-Development/meta/blob/main/SUPPORT.md)
+- Use logical fallacies in arguments
+- Recreate an issue you feel was unjustly closed -- if you feel an issue was unjustly closed, feel free to add a comment to the issue explaining why
+- Add comments such as 👍, +1, or "I like this idea" -- use [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)! We can measure those :)
 
-- Sobald du bereit bist, deine Issue/Bug-Report oder ein Feature-Request einzureichen gehe [hier](https://github.com/CubeGaming-Development/Meta/issues/new/choose) hin um anzufangen.
-- Du kannst auch in anderen Beiträgen kommentieren und an anderen Gesprächen teilnehmen. Denke daran wenn du einen Beitrag Unterstützen möchtest, oder dagegen bist Nutze 👍 und 👎 reaktionen. Du kannst auch [Sortiere Beiträge mit 👍](https://github.com/CubeGaming-Development/Meta/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc) oder (auch [mit 👎 wenn du möchtest](https://github.com/CubeGaming-Development/Meta/issues?q=is%3Aissue+sort%3Areactions--1-desc)) nutzen um Beiträge zu Sortieren.
+## Submitting An Issue
+> ⚠️ **Important!** If you discover a potential security exploit or vulnerability, please do not report it here! Check our [Security Policy](https://github.com/CubeGaming-Development/meta/blob/main/SECURITY.md) for more information.
+
+- Once you're ready to submit your bug report or feature request, head over to [this page](https://github.com/CubeGaming-Development/meta/issues/new/choose) to begin the process
+- You can also comment on other issues and participate in other conversations. Remember, if you want to show support or general disagreement of an issue, use 👍 and 👎 reactions. You can also [sort issues by 👍 reactions](https://github.com/CubeGaming-Development/Meta/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc) (also [by 👎 if you'd like](https://github.com/CubeGaming-Development/Meta/issues?q=is%3Aissue+sort%3Areactions--1-desc))
