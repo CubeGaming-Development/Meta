@@ -1,9 +1,9 @@
 # Security Policy
 
-## Unterstützte Versionen
+## Supported Versions
 
-Wir nutzen die neuste Production version von CubeGaming wenn wir Sicherheits-Reports bearbeiten.
+We support the latest production version of CubeGaming when handling security reports.
 
-## Eine Schwachstelle Melden
+## Reporting a Vulnerability
 
-Um eine Schwachstelle zu melden, [Sende uns eine E-Mail](mailto:bluesky@cubegaming.eu?subject=Wichtiger%20CubeGaming%20Sicherheits%20Report), Stelle sicher das du *alle* Relevanten Informationen mit uns Teilst und uns zeit gibst um den Report zu bestätigen bevor du diese Enthüllst.
+To report a vulnerability, please [send us an email](mailto:bluesky@cubegaming.eu?subject=Important%20CubeGaming%20Security%20Report), ensuring that you include *all* relevant information for us to properly handle the report. Give us adequate time to address the issue before disclosing it to the public.
