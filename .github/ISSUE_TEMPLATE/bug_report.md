@@ -1,84 +1,71 @@
----
-name: Bug Melden
-about: Melde einen Bug auf CubeGaming
-title: ''
-labels: bug
-assignees: ''
+name: Bug Report
+description: Report a bug on Minehut
+labels: ["bug"]
 
----
-
-<!-- CubeGaming Bug Report Template
-
-Fülle das Template aus. Schreibe nicht zwischen den Pfeilen da der Text in diesen beim Senden Nichtmehr Angezeigt wird.
-
-Wenn du einen Bug Melden möchtest, lies das Folgende:
-
-1.  Fülle das Template aus
-     Es macht es für alle Einfacher wenn die Reports dem Standart Template entsprechen. Auch stellt es sicher das wir die Benötigen Informationen haben. Um eine Box Anzukreuzen,        Setze ein "x" zwischen [ ] Beispiel: [x]
-
-2.  Halte deinen Report Simpel
-     Stelle sicher das es einfach ist zu verstehen was du Meldest, und wie es Reproduzierbar ist
-
-3. Wähle einen ordentlichen Titel
-    Der Report-Titel sollte kurz sein und eine Klare Andeutung für den Bug sein
-
-     -->
-
-
-### Bug Report
-
-**Checkliste**
-- [ ] Ich habe die ReadME gelesen und Akzeptiere sie (https://github.com/CubeGaming-Development/Meta)
-- [ ] Ich melde KEINE Sicherheitslücke
-- [ ] Ich habe den Issue Tracker durchsucht um sicherzugehen das dies kein Doppelter Bug-Report ist
-- [ ] Dieser Bug-Report enthält keine Sensiblen Daten
-
-**Für welche Platform ist dein Vorschlag**
-<!-- Für welche Platform ist dieser Vorschlag? Discord, Website oder In-game?
-Wenn in-game: Java oder Bedrock -->
-- [ ] Discord
-- [ ] Website
-- [ ] Java
-- [ ] Bedrock
-
-**Beschreibe den Bug**
-<!-- Eine Saubere Erklärung was der Bug macht -->
-
-
-
-**Um den Bug zu Reproduzieren**
-Schritte um den Bug zu Reproduzieren:
-<!-- Beispiel:
-          1. Gehe auf den MineZ Server
-          2. Öffne einen Rucksack und Klicke ein Item an
-          3. Schließe das Spiel mit ALT + F4 ohne das Item wieder in einen Slot zu packen
-          4. Starte das Spiel Erneut und verbinde auf den Server
-          5. Das Item ist nun Verschwunden
--->
-
-**Vorgestelltes Geschehen**
-<!-- Eine Klare beschreibung was du dir Vorgestellt hast was passieren sollte
-     Beispiel:
-          Normalerweise sollte das Item wieder im Rucksack auftauchen
--->
-
-
-
-**Geräteinformation**
-<!-- Gib die Informationen Ehrlich und Ordentlich an -->
-- Minecraft client (und version): 
-- Web browser (und version **(Wird nur bei Bug-Reports benötigt die vom Forum handeln.)**:
-- OS (und version): 
-- Servername (Diesen Findest du in der Tab liste): 
-
-
-**Screenshots**
-<!-- 
-Füge wenn Möglich, screenshots, kurze Videos/GIFs hinzu um das Problem zu zeigen 
-Wird nicht Zwingend Benötigt, ist aber sehr Hilfreich -->
-
-**Zusätzlicher Kontext**
-<!-- Füge hier Zusätzliche Dinge ein die Nützlich für uns sein könnten -->
-
----
-**Versuche den Bug zu Reproduzieren und lass es uns in den Kommentaren wissen. Stelle sicher das du deine Geräteinformationen mit angibst!**
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      description: Confirm all of these are checked and valid.
+      options:
+        - label: I have read and agree to the README (found on https://github.com/Minehut/Meta)
+          required: true
+        - label: I am NOT reporting a security vulnerability
+          required: true
+        - label: I have searched the Issue Tracker to make sure this is not a duplicate issue
+          required: true
+        - label: This issue does not contain any sensitive information
+          required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: What platform does this issue occur on?
+      multiple: true
+      options:
+        - Java
+        - Bedrock
+        - Website
+        - Discord
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: bug
+    attributes:
+      label: Current Behavior?
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen?
+      description: What is the expected behavior of the action?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction Steps
+      description: Steps to reproduce the behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: device
+    attributes:
+      label: Client Information?
+      description: |
+        Provide the following applicable information
+        - Minecraft client (and version): 
+        - Web browser (and version): 
+        - Operating system (and version): 
+        - Minehut server name
+    validations:
+      required: true
+  - type: textarea
+    id: image
+    attributes:
+      label: Images?
+      description: If applicable, add screenshots, short videos/GIFs to help explain your problem
+  
