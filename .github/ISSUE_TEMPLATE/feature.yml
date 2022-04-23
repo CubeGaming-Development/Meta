@@ -9,7 +9,7 @@ body:
       label: Checklist
       description: Confirm all of these are checked and valid.
       options:
-        - label: I have read and agree to the README (found on https://github.com/CubbeGaming-Development/Meta)
+        - label: I have read and agree to the README (found on https://github.com/CubeGaming-Development/Meta)
           required: true
         - label: I am NOT reporting a security vulnerability
           required: true
